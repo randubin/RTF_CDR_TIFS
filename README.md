@@ -25,6 +25,7 @@ C. VirusTotal file detection
 ============================
 We thank VirusTotal for providing us API upload to validate our CDR disarm results.
 API documentation can be founnd here: https://developers.virustotal.com/reference/overview
-
+Link to the SHA256 dataset descriptionL:
+https://github.com/randubin/RTF_CDR_TIFS/blob/main/VirusTotal_RTF_DATASET_SHA256.csv
 
 
