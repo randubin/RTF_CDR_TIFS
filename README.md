@@ -15,7 +15,7 @@ Tools used to validate the research:
 
 A. Yara
 ======
-A. The Yara folder contains the yara rules used for validation.
+A. We use the yara from the following repository: known https://github.com/ditekshen/detection/blob/master/yara/indicator_office.yar
 
 B. RTFOBJ
 ==========
